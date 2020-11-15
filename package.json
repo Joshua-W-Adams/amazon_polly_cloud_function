@@ -1,5 +1,5 @@
 {
-  "name": "typescript_boilerplate",
+  "name": "amazon_polly_cloud_function",
   "version": "1.0.0",
   "description": "",
   "main": "dist/app.js",

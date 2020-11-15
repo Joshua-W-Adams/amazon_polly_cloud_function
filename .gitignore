@@ -1,2 +1,4 @@
 node_modules
 dist
+assets/audio
+package-lock.json
